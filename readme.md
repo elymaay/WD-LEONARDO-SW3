@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="https://scontent.fmnl33-6.fna.fbcdn.net/v/t1.15752-9/449697975_1477336089839476_4972942663370974651_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeGyXUOd6pfmqQOGdSB7fpPAkuSsqqt38JKS5Kyqq3fwkgMTWocMbaftSPu2u_qbTO-QsYtyQId22wSrQWxcLCx8&_nc_ohc=s7yEMRGWkiQQ7kNvgFqmoi3&_nc_ht=scontent.fmnl33-6.fna&oh=03_Q7cD1QEBU19KQkBSigGAew0v-ywYdmRSJqARjPBPTAs7aKx5TQ&oe=66C13370" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Title</h3>
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=elymaay/WD-LEONARDO-SW3)
 
 ---
 
@@ -60,23 +60,23 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project - Showcasing different designs of headers and footers
+- Whats the purpose - To show the different designs of headers and footers
+- What are key components - Static and Animated Headers and Footers
+- What technology used and how it is used - HTML and CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Static Headers and Footers
+- Animated Headers and Footers
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.

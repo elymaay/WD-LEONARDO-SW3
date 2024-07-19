@@ -1,0 +1,164 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #cec4c4;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.llogo {
+    font-size: 1.5em;
+    align-items: center;
+    font-weight: bold;
+    margin-left: 900px;
+}
+
+.header6 {
+    background-color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.container6 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lllogo img {
+    height: 40px;
+}
+
+.Togo img {
+    height: 40px;
+}
+
+.profile .profile-img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+}
+
+
+nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Static Header Styles */
+.auth-buttons a {
+    margin-left: 15px;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    background-color: #c4d7f3;
+    color: #333;
+}
+
+.auth-buttons .login {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.auth-buttons .signup {
+    background-color: #007BFF;
+    color: #fff;
+}
+
+.search input {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+.social-icons a {
+    margin-left: 10px;
+    color: #333;
+}
+
+
+.hamburger-menu a {
+    font-size: 1.5em;
+    color: #333;
+}
+
+/* Animated Header Styles */
+.header6 nav ul li a:hover {
+    background-color: #9e9494;
+    transition: color 0.5s;
+}
+
+.header7 .contact-info a {
+    display: inline-block;
+    margin-left: 15px;
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s, transform 0.3s;
+}
+
+.header7 .contact-info a:hover {
+    color: #dc3545;
+    transform: scale(1.1);
+}
+
+.header8 .button a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: #007BFF;
+    color: #fff;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.header8 .button a:hover {
+    background-color: #0056b3;
+    transform: translateY(-5px);
+}
+
+.social-icons a {
+    display: inline-block;
+    margin-left: 10px;
+    transition: color 0.3s, transform 0.3s;
+}
+
+.social-icons a img {
+    width: 24px; /* Adjust as needed */
+    height: 24px; /* Adjust as needed */
+    vertical-align: middle;
+}
+
+.social-icons a:hover img {
+    transform: scale(1.1); /* Optional hover effect */
+}
+
+.header10 .hamburger-menu a:hover {
+    color: #ffc107;
+    transition: color 0.5s;
+}
